@@ -1,0 +1,319 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 1300px) {
+	.wrapper_head {
+		margin: 0px auto;
+	}
+}
+@media screen and (max-width: 1050px) {
+    /*------------------------Header-----------------------------*/
+    .dates, .dates0, .dates1, .dates2, .dates3, .dates4, .dates5, .dates6, .dates7, .dates8, .dates9, .dates10, .dates11, .dates12, .dates13, .dates14, .dates15, .dates16, .dates17, .dates18 {
+        background-attachment: scroll !important;
+    }
+
+    
+
+    .search_input {
+        font-size: 12px;
+    }
+
+    .nav_click {
+        padding-left: 5px;
+    }
+
+    .left ul li {
+        padding: 22px 4px;
+        font-size: 12px;
+    }
+
+    .career_cover {
+        width: 100%;
+        padding: 40px 10px 10px;
+    }
+
+        .career_cover > ul > li {
+            padding: 10px 30px;
+        }
+
+        .career_cover ul li a {
+            font-size: 11px;
+        }
+
+    .abt {
+        padding: 10px 20px !important;
+    }
+
+    .pro {
+        padding: 80px 24px 20px !important;
+        height: 295px;
+    }
+
+    .pro1 ul, .pro2 ul, .pro3 ul, .pro4 ul, .pro5 ul {
+        width: 100% !important;
+    }
+
+    /* .bri_logo {
+        width: 150px;
+    } */
+    /*------------------------Common-----------------------------*/
+    .cover {
+        width: 100%;
+        margin-top: 250px;
+        padding: 10px;
+    }
+
+    .button {
+        padding: 8px;
+        font-size: 15px;
+        cursor: pointer;
+        transition: none;
+    }
+
+    .goodday {
+        font-size: 35px;
+    }
+    /*-----------------------Footer-----------------------------*/
+
+    .wrap {
+        width: initial;
+    }
+
+    .fright {
+        width: 30%;
+    }
+
+    .footer {
+        overflow: hidden;
+    }
+
+    .arrowup {
+        display: none;
+    }
+
+    .arrow {
+        right: 38px;
+        cursor: pointer;
+    }
+    /*-----------------------Home page----------------------------*/
+    .intro {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    #slider {
+        height: 350px;
+    }
+
+    .move {
+        top: 22%;
+        left: 15%;
+    }
+
+    .move1 {
+        left: 28%;
+        top: 22%;
+    }
+
+    .move2 {
+        left: 55%;
+        top: 45%;
+    }
+
+    .move3 {
+        left: 13%;
+    }
+
+    .move4 {
+        left: 12%;
+    }
+
+    .move5, .move9 {
+        left: 1%;
+    }
+
+    .move6 {
+        left: 58%;
+    }
+
+    .round {
+        top: 41%;
+        margin: 10px 0px;
+    }
+
+    .wround {
+        border: 6px solid #fff;
+        margin: 10px 0px;
+    }
+
+    .active4 {
+        border: 6px solid #f00;
+    }
+
+    .home_div2 {
+        width: 100%;
+        /* margin-left: 15px; */
+    }
+
+        .home_div2 a {
+            font-size: 15px;
+        }
+
+    .sub2 {
+        margin: 0px;
+    }
+    /*-----------------------Inner product page----------------------------*/
+    .add {
+        width: 32%;
+    }
+    /*----------------------- product page----------------------------*/
+    .nutri ul li {
+        width: 32% !important;
+    }
+    /*----------------------- Overview page----------------------------*/
+    .owheading {
+        font-size: 33px;
+    }
+
+    .owleft p, .owright p {
+        font-size: 15px;
+    }
+
+    .owrhead {
+        padding: 0 43px !important;
+    }
+    /*----------------------- Employer of choice page----------------------------*/
+    .employ {
+        font-size: 30px !important;
+    }
+    /*----------------------- Our Offices page----------------------------*/
+    .offices {
+        margin: 40px 8%;
+    }
+
+    .office_address span {
+        font-size: 18px;
+    }
+    /*----------------------- Media kit page----------------------------*/
+    .media ul li {
+        width: 40%;
+    }
+    /*----------------------- Investor center page----------------------------*/
+    .investor {
+        height: 200px;
+    }
+
+    .rating_right p {
+        font-size: 27px !important;
+    }
+    /*-----------------------Shop now page----------------------------*/
+    .cover {
+        width: 98%;
+    }
+
+    .amazon {
+        width: 80%;
+    }
+
+    .dealers {
+        width: 22%;
+    }
+    /*---------------------What's new page----------------------------*/
+    .blog_detail {
+        padding: 10px 15px;
+    }
+
+    .blog {
+        padding: 10px;
+    }
+
+    .new_blog {
+        width: 99%;
+    }
+
+    .close {
+        right: 5.5%;
+    }
+
+    /*-------------------------------------------------------Error 404 page-------------------------------------------*/
+    .left_error {
+        font-size: 220px;
+        padding-top: 22px;
+    }
+    /*Britannia logo hover*/
+    .bri_logo1 {
+        width: 150px;
+    }
+    /* spreadz banner */
+    .spreadz-button {
+        left: 5%;
+        padding: 5px 0;
+    }
+
+    .spreadz_intro span {
+        font-size: 17px;
+        padding: 2px 10px;
+    }
+
+    /*-------------------------------------------------------Career page-------------------------------------------*/
+    .popupCar {
+        width: auto;
+        /*margin: 10px;*/
+        left: 0;
+        top: 20%;
+        height: 350px;
+        width: 95%;
+    }
+
+    .introCar {
+        line-height: 30px;
+    }
+
+    .right_descriptionCar p {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .right_descriptionCar {
+        width: 92%;
+    }
+
+        .right_descriptionCar span {
+            font-size: 30px;
+            /*margin-right: 20px;*/
+        }
+
+    .nutri-table th {
+        font-size: 22px;
+        text-align: center;
+        padding: 10px 20px;
+        border-top: 3px solid #000;
+    }
+    .bord-none {
+        font-size:20px;
+		border-left: 0px;
+		border-right: 0px;
+		border-top: 1px solid #000;
+		border-bottom: 0px;
+		padding: 8px 0;
+	}
+	.home #slider{
+		/* margin-top: 57px; */
+		margin-top: 0px;
+	}
+	.wrapper_head{
+		max-width: 983px;
+		width: 100%;
+	}
+	.header-logo-block{
+		margin-right: 0px;
+	}
+
+}
+@media screen and (max-width: 800px) {
+	.rdrop_cover{
+		width: 160px;
+		right: 0;
+	}
+	
+}

@@ -1,0 +1,1823 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0053)http://britannia.co.in/products/marie-gold/marie-gold -->
+<html xmlns="http://www.w3.org/1999/xhtml" class="win chrome chrome1 webkit webkit5"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0"><title>
+	Britannia Marie Gold Cookie
+</title>
+     <!--<meta http-equiv="X-UA-Compatible" content="IE=Edge" />-->
+    <meta name="description" content="Each Marie Gold cookie is crisp and light, and is packed with the goodness of Vitamins and Minerals that make for healthier teatimes."><meta id="ogTitle" property="og:title" content="Britannia Marie Gold Cookie"><meta id="ogDescription" property="og:description" content="Each Marie Gold cookie is crisp and light, and is packed with the goodness of Vitamins and Minerals that make for healthier teatimes."><meta id="ogImage" property="og:image" content="http://britannia.co.in/images/fb.jpg"><link id="fav" rel="shortcut icon" href="http://britannia.co.in/images/fav.ico">
+    <script async="" src="./brit.effect_files/gtm.js.download"></script><script async="" src="./brit.effect_files/analytics.js.download"></script><script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-61652727-1', 'auto');
+        ga('send', 'pageview');
+
+</script>
+      
+
+<link href="./brit.effect_files/style.css" rel="stylesheet" type="text/css">
+<link href="./brit.effect_files/magnific-popup.css" rel="stylesheet" type="text/css">
+<link href="./brit.effect_files/mediatab.css" rel="stylesheet" type="text/css">
+<link href="./brit.effect_files/mediamobile_new.css" rel="stylesheet" type="text/css">
+<link href="./brit.effect_files/css" rel="stylesheet" type="text/css">
+<link href="./brit.effect_files/jpreloader.css" rel="stylesheet">
+    <link href="./brit.effect_files/jquery.reject.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="./brit.effect_files/slick.css">
+    <link rel="stylesheet" href="./brit.effect_files/jquery.mCustomScrollbar.min.css">
+    <style type="text/css">
+        /*Pop Up CSS Starts*/
+        #popup {
+            display: none;
+        }
+
+        .popElement {
+            position: fixed;
+            z-index: 10;
+            width: 400px;
+            height: 566px;
+            left: 50%;
+            margin: -283px 0px 0px -200px;
+            top: 55%;
+        }
+
+        .closeData {
+            display: block;
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            cursor: pointer;
+            width: 25px;
+            height: 25px;
+            background-image: url('../../images/x_mark_final.png');
+        }
+
+            .closeData:hover {
+                background-image: url('../../images/x_mark_final.png');
+            }
+
+        @media screen and (max-width: 600px) {
+            .popElement {
+                width: 300px;
+                height: 460px;
+                margin: -230px 0px 0px -150px;
+            }
+
+                .popElement img {
+                    width: 100%;
+                }
+        }
+
+        /*Pop Up CSS Ends*/
+
+        .red_left_desktop {
+            position: absolute;
+            left: 0;
+            top: 30%;
+            cursor: pointer;
+        }
+
+        .red_right_desktop {
+            position: absolute;
+            right: 0;
+            top: 30%;
+            cursor: pointer;
+        }
+
+        .active2 {
+            width: 33%;
+        }
+
+        .like {
+            height: 42px !important;
+        }
+
+        .slick-prev, .slick-next {
+            display: none !important;
+        }
+
+        /*.slick-dots {
+            position: absolute;
+            bottom: -45px;
+            display: block;
+            width: 100%;
+            padding: 0;
+            list-style: none;
+        }*/
+
+        .slick-dots li {
+            border: 0;
+            width: 57px;
+            margin: 2px;
+            display: inline-block;
+            overflow-y: hidden;
+            height: 8px;
+        }
+
+            .slick-dots li:hover, .slick-dots > .slick-active {
+                border: 0;
+            }
+
+            .slick-dots li span, .slick-dots li button {
+                width: 57px;
+                color: #666;
+                background-color: #666;
+                cursor: pointer;
+                display: inline-block;
+            }
+
+            .slick-dots li button {
+                border: 0;
+            }
+
+            .slick-dots li:hover, .slick-dots li:hover span, .click_active, .slick-dots li:hover button, .click_active, .slick-dots li:hover button, .slick-dots > .slick-active button {
+                background-color: #fc0202;
+                color: #fc0202;
+                cursor: pointer;
+            }
+
+        .slick-dots > .slick-active, .slick-dots > .slick-active span {
+            background-color: #fc0202;
+            color: #fc0202;
+            cursor: pointer;
+        }
+
+        .head_right a {
+            display: block;
+            float: left;
+        }
+        /*.head_right {
+            display: none;
+            width: auto;
+        }*/
+
+        .r1 {
+            /*border: 0;*/
+            border-bottom: none;
+        }
+
+        .r4 {
+            border-right: none;
+        }
+
+        .ulNutri {
+            padding-left: 20px;
+            padding-bottom: 10px;
+        }
+
+            .ulNutri li {
+                font-size: 18px;
+                color: #666;
+                line-height: 25px;
+                list-style-type: disc;
+            }
+
+        .para2 #temp2 {
+            font-size: 18px;
+            color: #666;
+            line-height: 25px;
+            margin-bottom: 13px;
+            margin-right: 20px;
+        }
+
+        .para2 #disclmr {
+            padding-top: 20px;
+            /*float:right;*/
+            font-size: 11px;
+        }
+
+        @media screen and (max-width: 600px) {
+            .ulNutri li {
+                font-size: 12px;
+                line-height: 19px;
+            }
+
+            .para2 #temp2 {
+                font-size: 12px;
+                color: #6f6f6f;
+            }
+
+            .para2 #disclmr {
+                font-size: 9px;
+            }
+        }
+    </style>
+<script type="text/javascript" async="" src="./brit.effect_files/f.txt"></script></head>
+<body class="no-touch" style="background: rgb(255, 255, 255); display: block;">
+
+     <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NG49JX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-NG49JX');</script>
+<!-- End Google Tag Manager -->
+
+  
+<!-- Header Content  -->
+<!-- Header Content  -->
+<div class="heading header_menu" style="margin-top: 0px;">
+    <div class="wrapper_head st-current">
+		<div class="left-spacer-logo" style="width: 392.875px;"></div>
+        <div class="header-logo-block">
+			<a href="http://britannia.co.in/" class="header-logo">
+				<img src="./brit.effect_files/britLogo.png" class="bri_logo">
+			</a>
+		</div>
+        <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="menu">
+            <img src="./brit.effect_files/menu.png"></a>
+        <div class="mobile_nav" style="height: auto; overflow-y: auto; overflow-x: hidden; position: absolute;">
+            <div class="mobile_prod">
+                <ul>
+                    <li><a href="http://britannia.co.in/products/biscuits">
+                        <img style="width: 70%;" src="./brit.effect_files/biscuit.png"><p>Biscuits</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/breads">
+                        <img style="width: 70%;" src="./brit.effect_files/breads.png"><p>Breads</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/dairy">
+                        <img style="width: 70%;" src="./brit.effect_files/cheese.png"><p>Dairy</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/cakes-rusks">
+                        <img style="width: 70%;" src="./brit.effect_files/cake.png" class="cake_mob"><img style="width: 70%;" src="./brit.effect_files/rusk.png" class="rusk_mob"><p>Cakes &amp; rusk</p>
+                    </a></li>
+                    <li>
+                        <a href="http://britannia.co.in/products/creme-wafers">
+                        <img style="width: 70%;" src="./brit.effect_files/drop-menu-wafers.png"><p>CREME WAFERS</p>
+                    </a></li><a href="http://britannia.co.in/products/creme-wafers">
+                     </a><li><a href="http://britannia.co.in/products/creme-wafers">
+                        </a><a href="http://britannia.co.in/products/croissant">
+                        <img style="width: 70%;" src="./brit.effect_files/drop-menu-croissant.png"><p>Croissant</p>
+                    </a></li><a href="http://britannia.co.in/products/croissant">
+                </a></ul><a href="http://britannia.co.in/products/croissant">
+                <div style="clear: both;"></div>
+            </a></div><a href="http://britannia.co.in/products/croissant">
+            </a><div class="mobile_abt"><a href="http://britannia.co.in/products/croissant">
+                <p>About us</p>
+                <span class="plus_header"></span>
+                </a><ul><a href="http://britannia.co.in/products/croissant">
+                    </a><li class="about"><a href="http://britannia.co.in/products/croissant"></a><a href="http://britannia.co.in/about-us/overview">Company Overview</a></li>
+                    <li class="about"><a href="http://britannia.co.in/milestones/details">Milestones</a></li>
+                    <li class="about"><a href="http://britannia.co.in/about-us/leadership">Leadership</a></li>
+                    <li class="about"><a href="http://britannia.co.in/about-us/awards">Awards &amp; Recognition</a></li>
+                    <li class="about"><a target="_blank" href="http://www.wadiagroup.com/">Wadia Group</a></li>
+                    <li class="about"><a href="http://britannia.co.in/about-us/britchip">BritChip Foods Limited</a></li>
+                     <li class="about"><a href="http://britannia.co.in/britannia-nutrition-foundation/" target="_blank">Britannia Nutrition Foundation</a></li>
+                    <li class="about"><a href="http://britannia.co.in/sustainability">Sustainability</a></li>
+                </ul>
+            </div>
+            
+            
+
+            <div class="mobile_abt">
+                <p>Contact us</p>
+                <span class="plus_header"></span>
+                <ul>
+                    
+                    <li class="about"><a href="http://britannia.co.in/contact-us/policy">Complaints Policy</a></li>
+                    <li class="about"><a href="http://britannia.co.in/contact-us/our-offices">Our Offices</a></li>
+                    <li class="about"><a href="http://britannia.co.in/contact-us/consumer-feedback">Consumer Feedback</a></li>
+                      <li class="about"><a href="http://britannia.co.in/contact-us/international-business">International Business</a></li>
+                </ul>
+            </div>
+            <div class="mobile_abt">
+                <p>Careers</p>
+                <span class="plus_header"></span>
+                <ul>
+                    <li class="about"><a href="http://britannia.co.in/careers/philosophy">Our Philosophy</a></li>
+                    <li class="about"><a href="http://britannia.co.in/careers/cookies-coffee-conversation">Cookies, Coffee and Conversations</a></li>
+                    
+                    <li class="about"><a href="http://britannia.co.in/careers/opportunities">Opportunities</a></li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="left">
+            <ul class="">
+                <!--        	<a href="#"><li class="main_nav"> Home</li></a>  -->
+                <li class="main_nav prod commonnav bproducts" data-subnav="products">Products</li>
+                <li class="main_nav ab commonnav babout" data-subnav="about">About Us</li>
+                <li class="main_nav car commonnav bcareers" data-subnav="careers">Careers</li>
+                
+                <a href="http://britannia.co.in/investors" class="">
+                    <li class="main_nav inv commonnav binvestor" data-subnav="investor">Investor Centre</li>
+                </a>
+                <li class="main_nav con commonnav binvestorcenter" data-subnav="investorcenter">Contact Us</li>
+            </ul>
+        </div>
+        <div class="right">
+            <div class="r_nav">
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" id="search_click">
+                    <img src="./brit.effect_files/search-new.png" class="search_click"></a>
+            </div>
+            
+            <div class="r_nav nav_click"><span></span></div>
+            <div class="rdrop">
+                <div class="rdrop_cover">
+                    <a href="http://britannia.co.in/news-and-media" class="rhead">
+                        <p>News &amp; Media</p>
+                    </a>
+                    <a href="http://britannia.co.in/investors" class="rhead">
+                        <p>Investor Centre</p>
+                    </a>
+                    <a href="http://britannia.co.in/contact-us/our-offices" class="rhead">
+                        <p>Our Offices</p>
+                    </a>
+                    <a href="http://britannia.co.in/contact-us/consumer-feedback" class="rhead">
+                        <p>Consumer Feedback</p>
+                    </a>
+                    <a href="http://britannia.co.in/suppliers" class="rhead">
+                        <p>Suppliers</p>
+                    </a>
+                  
+
+                    
+                </div>
+            </div>
+
+
+        </div>
+        <div style="clear: both;"></div>
+
+
+    </div>
+    <div class="clearBoth"></div>
+
+	<!-- Subnavigation for header -->
+	<!-- Contact -->
+	<div class="investorcenter func" data-main="investorcenter" style="display: none;">
+		
+		<div class="career_cover">
+			<ul>
+				<li class="cont" style="border-left: 1px solid #a8a8a8;"><a href="http://britannia.co.in/contact-us/consumer-feedback">Consumer Feedback</a></li>
+				<li class="f cont"><a href="http://britannia.co.in/contact-us/policy">Complaints Policy</a></li>
+				<li class="f cont"><a href="http://britannia.co.in/contact-us/our-offices">Our Offices</a></li>
+                <li class="f cont"><a href="http://britannia.co.in/contact-us/international-business">International Business</a></li>
+				
+
+
+			</ul>
+		</div>
+	</div>
+	<!-- Contact ends-->
+	<!-- Career -->
+	<div class="func careers" data-main="careers" style="display: none;">
+		
+		<div class="career_cover">
+			<ul>
+				<li class="f" style="border-left: 1px solid #a8a8a8;"><a href="http://britannia.co.in/careers/philosophy">Our Philosophy</a></li>
+				
+				<li><a href="http://britannia.co.in/careers/cookies-coffee-conversation">Cookies, Coffee and Conversations</a></li>
+				<li><a href="http://britannia.co.in/careers/opportunities">Opportunities</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- Career ends-->
+	<!-- About Us -->
+	<div class="about func" data-main="about" style="display: none;">
+		
+		<div class="career_cover about_us_new" style="width: 1065px;">
+			<ul>
+				<li class="f abt" style="border-left: 1px solid #a8a8a8;"><a href="http://britannia.co.in/about-us/overview">Company Overview</a></li>
+				<li class="abt"><a href="http://britannia.co.in/milestones">Milestones</a></li>
+				<li class="abt"><a href="http://britannia.co.in/about-us/leadership">Leadership</a></li>
+				<li class="abt"><a href="http://britannia.co.in/about-us/awards">Awards &amp; Recognition</a></li>
+				<li class="abt"><a target="_blank" href="http://www.wadiagroup.com/">Wadia Group</a></li>
+				<li class="abt"><a href="http://britannia.co.in/about-us/britchip">BritChip Foods Limited</a></li>
+                   <li class="abt"><a href="http://britannia.co.in/britannia-nutrition-foundation/" target="_blank">Britannia Nutrition Foundation</a></li>
+				<li class="abt"><a href="http://britannia.co.in/sustainability">Sustainability</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- About Us ends-->
+	<!--Products-->
+	<div class="products func" data-main="products" style="display: none;">
+		
+		
+		<div class="career_cover">
+			<ul id="menuHolder">
+				<li class="f pro pro1 pro1 f" style="border-left: 1px solid #a8a8a8;"><a href="http://britannia.co.in/products/biscuits"><b> Biscuits</b></a><br><ul><li><a href="http://britannia.co.in/products/good-day/cashew"> Good Day </a></li><li><a href="http://britannia.co.in/products/crackers/50-50-sweet-salty"> Crackers</a></li><li><a href="http://britannia.co.in/products/nutri-choice/nutrichoice-oats"> NutriChoice</a></li><li><a href="http://britannia.co.in/products/marie-gold/marie-gold"> Marie Gold</a></li><li><a href="http://britannia.co.in/products/tiger/tiger-glucose"> Tiger</a></li><li><a href="http://britannia.co.in/products/milk-bikis/milk-bikis-regular"> Milk Bikis</a></li><li><a href="http://britannia.co.in/products/jim-jam-treat/jim-jam"> Jim Jam + Treat</a></li><li><a href="http://britannia.co.in/products/bourbon/bourbon-orginal"> Bourbon</a></li><li><a href="http://britannia.co.in/products/little-heart/little-hearts"> Little Hearts</a></li><li><a href="http://britannia.co.in/products/pure-magic/vanilla-cr%C3%A8me"> Pure Magic</a></li><li><a href="http://britannia.co.in/products/nice-time/nice-biscuits"> Nice Time</a></li></ul></li><li class="pro pro2"><a href="http://britannia.co.in/products/breads"><b> Breads</b><br></a><ul><a href="http://britannia.co.in/products/breads"></a><li><a href="http://britannia.co.in/products/breads"></a><a href="http://britannia.co.in/products/whole-wheat-breads/atta-kulcha"> Whole Wheat Breads</a></li><li><a href="http://britannia.co.in/products/white-sandwich-breads/vitamin-enriched-bread"> White Sandwich Breads</a></li><li><a href="http://britannia.co.in/products/bread-assortment/kulcha"> Bread Assortment</a></li><li><a href="http://britannia.co.in/products/daily-breads/missi-bread"> Daily Breads</a></li></ul></li><li class="pro pro3"><a href="http://britannia.co.in/products/dairy"><b> Dairy</b><br></a><ul><a href="http://britannia.co.in/products/dairy"></a><li><a href="http://britannia.co.in/products/dairy"></a><a href="http://britannia.co.in/products/cheese/britannia-cheese-slices"> Cheese </a></li><li><a href="http://britannia.co.in/products/milk-based-beverages/winkin-cow-choco-shake-tetrapak"> Milk Based Beverages</a></li><li><a href="http://britannia.co.in/products/fresh-dairy/dahi"> Fresh Dairy</a></li><li><a href="http://britannia.co.in/products/accompaniments/dairy-whitener"> Everyday Goodness</a></li></ul></li><li class="pro pro4"><a href="http://britannia.co.in/products/cakes"><b> Cakes</b><br></a><ul><a href="http://britannia.co.in/products/cakes"></a><li><a href="http://britannia.co.in/products/cakes"></a><a href="http://britannia.co.in/products/gobbles/fruity-fun"> Gobbles</a></li><li><a href="http://britannia.co.in/products/tiffin-fun/tiffin-fun"> Tiffin Fun</a></li><li><a href="http://britannia.co.in/products/nut-and-raisin-romance/nuts-and-raisins"> Nut &amp; Raisin</a></li><li><a href="http://britannia.co.in/products/muffills/choco-muffins"> Muffills</a></li><li><a href="http://britannia.co.in/products/layerz/layerz-chocolate"> Layerz</a></li><li><a href="http://britannia.co.in/products/rollyo/rollyo-chocolate"> Rollyo</a></li><li><a href="http://britannia.co.in/products/fudgeit/fudgeit"> Fudgeit</a></li></ul></li><li class="pro pro5"><a href="http://britannia.co.in/products/rusk"><b> Rusk</b><br></a><ul><a href="http://britannia.co.in/products/rusk"></a><li><a href="http://britannia.co.in/products/rusk"></a><a href="http://britannia.co.in/products/toastea/premium-bake"> Toastea</a></li></ul></li><li class="pro pro6"><a href="http://britannia.co.in/products/creme-wafers"><b> Creme Wafers</b><br></a><ul><a href="http://britannia.co.in/products/creme-wafers"></a><li><a href="http://britannia.co.in/products/creme-wafers"></a><a href="http://britannia.co.in/products/treat/creme-wafers-chocolate"> Treat Creme Wafer</a></li></ul></li><li class="pro pro7"><a href="http://britannia.co.in/products/croissant"><b> Croissant</b><br></a><ul><a href="http://britannia.co.in/products/croissant"></a><li><a href="http://britannia.co.in/products/croissant"></a><a href="http://britannia.co.in/products/treat-croissant/cocoa-creme-roll"> Treat Croissant</a></li></ul></li>
+				
+			</ul>
+		</div>
+		
+	</div>
+</div>
+<!-- Header Content ends  -->
+  
+    <div class="clearBoth"></div>
+    <div style="display:none;" class="blurr">
+
+        
+    </div>
+       <div style="display:none;" class="blurrMobile">
+
+        
+    </div>
+    <div style="display:none;" class="search_popup">
+    	<input type="text" id="txtHeaderSearch" class="search_grey" style=" text-transform: uppercase;">
+         <span><a href="http://britannia.co.in/products/marie-gold/marie-gold#" id="btnForumSearch"><img src="./brit.effect_files/search_popup.png" class="search_enter"></a></span>
+    
+	</div>
+    <div class="scrollCont clearfix wrapper2" style="background-image: url(&quot;http://britannia.co.in/images/products/Biscuit-Hero.jpg&quot;);">
+        <img src="http://britannia.co.in/products/marie-gold/marie-gold" class="wx" style="width:100%;display:none;">
+    </div>
+    <div class="page1">
+        
+     <div></div>
+        
+    <div id="popup" style="display: none;">
+        <div class="popElement">
+            <img src="./brit.effect_files/paytm.jpg" alt="">
+            <div class="closeData"></div>
+        </div>
+    </div>
+    <div class="cover">
+        <div class="head">
+            <a href="http://britannia.co.in/products/biscuits" id="cphContent_breadCrumLink" style="font-size: 14px; color: #fc0202;">Products/Biscuits</a><br>
+            <span class="goodday">Marie Gold </span>
+            <span id="headDeuce" style="display: none;">
+                <img src="./brit.effect_files/deuce.png"></span>
+            <br>
+            <div style="border: 4px solid #fc0202; width: 100px; margin-top: -5px;"></div>
+
+        </div>
+        <div class="head_right">
+            <a href="http://britannia.co.in/products/marie-gold/marie-gold" target="_blank" style="display: none">
+                <div class="r1" id="ff" style="cursor: pointer;"></div>
+            </a>
+            <a href="http://britannia.co.in/products/marie-gold/marie-gold" target="_blank" style="display: none">
+                <div class="r2" id="tweetShareClick" style="cursor: pointer;"></div>
+            </a>
+            <a href="javascript:void();" id="chartDisplay" style="display: none;">
+                <div class="r4" id="chart" style="cursor: pointer;" data-id="7"></div>
+            </a>
+        </div>
+        
+        <div style="clear: both"></div>
+        <div class="leftimg">
+            <img src="./brit.effect_files/process-Marie.jpg" id="cphContent_bigImage" style="width: 100%;" alt="Britannia Marie Gold Biscuits " title="Britannia Marie Gold Crisp and Light Biscuit " class="">
+            <span id="condition" style="display: none;">Available in Bengaluru only</span>
+        </div>
+
+        <div class="description mCustomScrollbar _mCS_1 mCS_no_scrollbar" style="height: 719px; overflow-y: auto;"><div id="mCSB_1" class="mCustomScrollBox mCS-britannia mCSB_vertical mCSB_inside" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+            <div class="para1" id="proddet">
+                <h2>
+                    Cheers to health at Tea Time!
+                </h2>
+
+                <p>Tea times are incomplete without a packet of Britannia Marie biscuits. As today’s woman packs in more each day while caring for her family, these low fat and zero cholesterol biscuits are her tea time mates. By dipping a Marie Gold into a piping hot cup of tea, a special moment of vitality is savoured.</p>
+            </div>
+            <div class="para2">
+                <h2 id="temp1">
+                    Marie Gold
+                </h2>
+                <img src="./brit.effect_files/Marie_Gold_203g-F-.png" id="cphContent_prodImage" class="butter mCS_img_loaded" alt="Britannia Marie Gold Biscuit">
+                <div id="temp2">
+                    Each Marie Gold biscuit is crisp and light, and is packed with the goodness of Vitamins and Minerals that make for healthier teatimes.
+                </div>
+                <div class="video">
+
+                    <img src="./brit.effect_files/tvc-marie.jpg" id="cphContent_video_image" class="cvideo video_image deude-img mCS_img_loaded" style="border: 3px solid rgb(218, 218, 218);">
+                    <a href="http://britannia.co.in/products/marie-gold/marie-gold#" id="video_clk" class="anchor_video_clk">
+                        <img src="./brit.effect_files/play2.png" class="play mCS_img_loaded">
+                        <img src="./brit.effect_files/play3.png" class="play2 mCS_img_loaded"></a>
+                </div>
+            </div>
+
+        </div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-britannia mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; height: 0px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+        
+        <hr style="clear: both;">
+        <div id="cphContent_otherRanges" class="div3">
+            <h2 class="goodday" style="margin-top: 10px;">The Marie Gold range</h2>
+            <ul id="customPage" style="display: none;">
+            </ul>
+            <div class="otherRanges" style="display: none;">
+                
+            </div>
+            <ul id="slideul" class="slick-initialized slick-slider">
+
+                <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 960px; transform: translate3d(0px, 0px, 0px);"><li class="active2 slick-slide slick-active" data-slick-index="0" style="width: 240px;"><a id="7" data-dairy="" class="add" href="http://britannia.co.in/products/marie-gold/marie-gold" data-id="marie-gold"><span data-id1="Each Marie Gold biscuit is crisp and light, and is packed with the goodness of Vitamins and Minerals that make for healthier teatimes." style="display:none"></span><img data-id="http://britannia.co.in/images/products/426x197/Marie_Gold_203g-F-.png" src="./brit.effect_files/Marie_Gold_203g-F-(1).png" alt="Britannia Marie Gold Biscuit"><div class="like" data-vid="AaYsysScjA8" data-img="http://britannia.co.in/images/products/tvc-marie.jpg">Marie Gold<br></div></a><br></li><li class="active2 slick-slide slick-active" data-slick-index="1" style="width: 240px;"><a id="8" data-dairy="" class="add" href="http://britannia.co.in/products/marie-gold/vita-marie-gold" data-id="vita-marie-gold"><span data-id1="With 58% cereal, Milk Protein and 10 essential Vitamins, Vita MarieGold is fully loaded for the woman with a fully loaded life." style="display:none"></span><img data-id="http://britannia.co.in/images/products/426x197/VMG-140gm_-Pack--NEW.png" src="./brit.effect_files/VMG-140gm_-Pack--NEW.png" alt="Britannia Vita Marie Gold Biscuit"><div class="like" data-vid="-qKQImjAZKQ" data-img="http://britannia.co.in/images/products/tvc-marie_new.png">Vita Marie Gold<br></div></a><br></li><li class="active2 slick-slide slick-active" data-slick-index="2" style="width: 240px;"><a id="146" data-dairy="" class="add" href="http://britannia.co.in/products/marie-gold/whole-wheat-vita-marie-gold" data-id="whole-wheat-vita-marie-gold"><span data-id1="Made with 100% wholewheat, these biscuits are enriched with high fibre content. It aims to nourish the housewives who are nothing less than an everyday athlete." style="display:none"></span><img data-id="http://britannia.co.in/images/products/426x197/Whole-Wheat-Vita-Marie-Gold-big.png" src="./brit.effect_files/Whole-Wheat-Vita-Marie-Gold-small.png" alt="Whole Wheat Vita Marie Gold"><div class="like" data-vid="" data-img="http://britannia.co.in/images/products/">Whole Wheat Vita Marie Gold<br></div></a><br></li><li class="active2 dummy slick-slide slick-active" data-slick-index="3" style="width: 240px;"></li></div></div>
+
+            </ul>
+        </div>
+        <hr>
+        <div class="div4">
+            <a href="http://britannia.co.in/products/biscuits" id="cphContent_otherProductsLink" class="button">Other Products</a>
+
+        </div>
+        <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="button arrow">
+            <img src="./brit.effect_files/arrowup.png"></a>
+    </div>
+
+    <div class="popupNutri" style="display: none;">
+        <div class="introCar">
+            <div id="closePopup">X</div>
+            <div class="right_descriptionCar" id="nutri-details">
+                <div id="modal-scrollbar">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="googleBNCE">
+        <!-- Google Code for Remarketing Tag -->
+        <!-------------------------------------------------- 
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup 
+--------------------------------------------------->
+        <script type="text/javascript"> 
+            /* <![CDATA[ */ 
+            var google_conversion_id = 876500510; 
+            var google_custom_params = window.google_tag_params; 
+            var google_remarketing_only = true; 
+            /* ]]> */ 
+        </script>
+        <script type="text/javascript" src="./brit.effect_files/f(1).txt"> 
+        </script><iframe name="google_cookie_match_frame" title="Google cookie match frame" width="1" height="1" src="./brit.effect_files/pixel.html" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" style="display:none" scrolling="no"></iframe>
+        
+    </div>
+
+      
+        
+     
+<!-- Footer Section -->
+<div class="footer">
+
+    <div class="wrap">
+        <!-- Mobile other products click---------------------------------->
+        <div id="divMobileFooter">
+            <div class="close" id="mobileProdFooter">
+                    <img src="./brit.effect_files/x_mark_final.png">
+                </div>
+            <div class="mobile_prod" style="margin-bottom: 20px; background: #dadada;">
+                <ul>
+                    <li><a href="http://britannia.co.in/products/biscuits">
+                        <img style="width: 70%;" src="./brit.effect_files/biscuit.png"><p>Biscuits</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/breads">
+                        <img style="width: 70%;" src="./brit.effect_files/breads.png"><p>Breads</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/dairy">
+                        <img style="width: 70%;" src="./brit.effect_files/cheese.png"><p>Dairy</p>
+                    </a></li>
+                    <li><a href="http://britannia.co.in/products/cakes-rusks">
+                        <img style="width: 70%;" src="./brit.effect_files/cake.png" class="cake_mob"><img style=" width: 70%;" src="./brit.effect_files/rusk.png" class="rusk_mob"><p>Cakes &amp; rusk</p>
+                    </a></li>
+                </ul>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+        <!-- Mobile other products click ends---------------------------------->
+        <!--Products-->
+        <div id="productsFooter" class="product hide" data-main="products" style="display: none;">
+            <div class="career_cover_footer">
+                <!-- <div style="border:none;">
+   	   <div class="f pro pro1 fmain" style="border:none;"><a href="#"><b> Biscuits</b><br/>
+                <ul>
+                	<li class="prosub"><a href="#"> Goodday</a></li>
+                	<li class="prosub"><a href="#"> Tiger</a></li>
+                	<li class="prosub"><a href="#"> Milk bikis</a></li>
+                	<li class="prosub"><a href="#"> 50-50</a></li>
+                	<li class="prosub"><a href="#" > Little Hearts</a></li>
+       				<li class="prosub"><a href="#" > Marie</a></li><br />
+       				<li class="prosub"><a href="#" > Bourbon</a></li>
+       				<li class="prosub"><a href="#" > Nutri-Choice</a></li>
+                	<li class="prosub"><a href="#" > Jim Jam + Treat</a></li>
+                	<li class="prosub"><a href="#" > Puremagic</a></li>
+                	<li class="prosub"><a href="#" > Nicetime</a></li>
+                </ul></a></li>
+                
+       <div class="pro pro2 fmain" style="border:none;" ><a href="#"><b> Breads</b><br/>
+       									<a href="#" > Multi Grain</a><br/>
+                                        <a href="#" > 100% Whole wheat</a><br/>
+                                        <a href="#" > Healthy Slice</a><br/>
+                                        <a href="#" > Vitamin Enriched</a><br/></a></div>
+       <div class="pro pro3 fmain" style="border:none;"><a href="#"><b> Dairy</b><br/>
+       									<a href="#" > Cheese</a><br/>
+                                        <a href="#" > Ghee </a><br/>
+                                        <a href="#" > Dahi</a><br/>
+                                        <a href="#" > Butter</a><br/>
+                                        <a href="#" > Oat Milk</a><br/>
+                                        <a href="#" > Beverages</a><br/></a></div>
+       <div class="pro pro4 fmain" style="border:none;"><a href="#"><b> Cakes</b><br/>
+       									<a href="#" >Fruity fun</a><br/>
+                                        <a href="#" >Nuts and Raisins</a><br/>
+                                        <a href="#" > Choco Chill</a><br/>
+                                        <a href="#" > Butter Blast</a><br/>
+                                        <a href="#" > Milky Masti</a><br/>
+                                        <a href="#" > Orange Bites</a><br/></a></div>
+       <div class="pro pro5 fmain" style="border:none;"><a href="#"><b> rusk</b><br/>
+       									<a href="#" > Maska rusk</a><br/>
+                                        <a href="#" > premium Bake</a><br/></a></div>
+      </div>
+     </div>-->
+                <div class="close" id="btnCloseProducts">
+                    <img id="idClose" src="./brit.effect_files/x_mark_final.png">
+                </div>
+
+                <div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/biscuits"><p>Biscuits</p></a><div><ul><li><a href="http://britannia.co.in/products/good-day/cashew" class="fsub">Good Day </a></li><li><a href="http://britannia.co.in/products/crackers/50-50-sweet-salty" class="fsub">Crackers</a></li><li><a href="http://britannia.co.in/products/nutri-choice/nutrichoice-oats" class="fsub">NutriChoice</a></li><li><a href="http://britannia.co.in/products/marie-gold/marie-gold" class="fsub">Marie Gold</a></li><li><a href="http://britannia.co.in/products/tiger/tiger-glucose" class="fsub">Tiger</a></li><li><a href="http://britannia.co.in/products/milk-bikis/milk-bikis-regular" class="fsub">Milk Bikis</a></li><li><a href="http://britannia.co.in/products/jim-jam-treat/jim-jam" class="fsub">Jim Jam + Treat</a></li><li><a href="http://britannia.co.in/products/bourbon/bourbon-orginal" class="fsub">Bourbon</a></li><li><a href="http://britannia.co.in/products/little-heart/little-hearts" class="fsub">Little Hearts</a></li><li><a href="http://britannia.co.in/products/pure-magic/vanilla-cr%C3%A8me" class="fsub">Pure Magic</a></li><li><a href="http://britannia.co.in/products/nice-time/nice-biscuits" class="fsub">Nice Time</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/breads"><p>Breads</p></a><div><ul><li><a href="http://britannia.co.in/products/whole-wheat-breads/atta-kulcha" class="fsub">Whole Wheat Breads</a></li><li><a href="http://britannia.co.in/products/white-sandwich-breads/vitamin-enriched-bread" class="fsub">White Sandwich Breads</a></li><li><a href="http://britannia.co.in/products/bread-assortment/kulcha" class="fsub">Bread Assortment</a></li><li><a href="http://britannia.co.in/products/daily-breads/missi-bread" class="fsub">Daily Breads</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/dairy"><p>Dairy</p></a><div><ul><li><a href="http://britannia.co.in/products/cheese/britannia-cheese-slices" class="fsub">Cheese </a></li><li><a href="http://britannia.co.in/products/milk-based-beverages/winkin-cow-choco-shake-tetrapak" class="fsub">Milk Based Beverages</a></li><li><a href="http://britannia.co.in/products/fresh-dairy/dahi" class="fsub">Fresh Dairy</a></li><li><a href="http://britannia.co.in/products/accompaniments/dairy-whitener" class="fsub">Everyday Goodness</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/cakes"><p>Cakes</p></a><div><ul><li><a href="http://britannia.co.in/products/gobbles/fruity-fun" class="fsub">Gobbles</a></li><li><a href="http://britannia.co.in/products/tiffin-fun/tiffin-fun" class="fsub">Tiffin Fun</a></li><li><a href="http://britannia.co.in/products/nut-and-raisin-romance/nuts-and-raisins" class="fsub">Nut &amp; Raisin</a></li><li><a href="http://britannia.co.in/products/muffills/choco-muffins" class="fsub">Muffills</a></li><li><a href="http://britannia.co.in/products/layerz/layerz-chocolate" class="fsub">Layerz</a></li><li><a href="http://britannia.co.in/products/rollyo/rollyo-chocolate" class="fsub">Rollyo</a></li><li><a href="http://britannia.co.in/products/fudgeit/fudgeit" class="fsub">Fudgeit</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/rusk"><p>Rusk</p></a><div><ul><li><a href="http://britannia.co.in/products/toastea/premium-bake" class="fsub">Toastea</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/creme-wafers"><p>Creme Wafers</p></a><div><ul><li><a href="http://britannia.co.in/products/treat/creme-wafers-chocolate" class="fsub">Treat Creme Wafer</a></li></ul></div></div><div class="fmain" style="width:14.2%"><a href="http://britannia.co.in/products/croissant"><p>Croissant</p></a><div><ul><li><a href="http://britannia.co.in/products/treat-croissant/cocoa-creme-roll" class="fsub">Treat Croissant</a></li></ul></div></div>
+                
+
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+        <hr class="cover_for_border" style="display: none;">
+        <div class="fleft">
+            <div class="fmain">
+                <p>Contact Us</p>
+               <a href="http://britannia.co.in/contact-us/consumer-feedback" class="fsub">Consumer Feedback</a>
+                <a href="http://britannia.co.in/contact-us/policy" class="fsub">Complaints Policy</a>
+                <a href="http://britannia.co.in/suppliers" class="fsub">Suppliers</a>
+                <a href="http://britannia.co.in/distributor" class="fsub">Distributors</a>
+                <a href="http://britannia.co.in/contact-us/our-offices" class="fsub">Our Offices</a>
+            </div>
+            
+            <div class="fmain">
+                <p>Investor Centre</p>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;Presentations&#39;)">Presentations</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;Investor&#39;)">Investor Service Centres</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;Financial&#39;)">Financial Performance</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;ShareHolding&#39;)">Share Holding Pattern</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;Bonus&#39;)">Bonus and Dividend History</a>
+               
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub" onclick="clickCounter(&#39;IEPF&#39;)">IEPF Information</a>
+                
+            </div>
+            <div class="fmain">
+                <p><a style="color: #fff;" href="http://britannia.co.in/news-and-media">News and Media </a></p>
+				<a href="http://britannia.co.in/whats-new" class="fsub">New at Britannia</a>
+            </div>
+            <div class="fmain">
+                <p><a style="color: #fff;" href="http://britannia.co.in/investors/code-of-conduct">Code of Conduct &amp; Policies</a></p>
+				
+            </div>
+         
+        </div>
+        <div class="fright">
+            <div class="socials">
+                <a href="https://www.facebook.com/BritanniaIndustriesLimited" rel="nofollow" target="_blank" class="fb"></a>
+                
+                <a href="https://twitter.com/BritanniaIndLtd" target="_blank" rel="nofollow" class="tw"></a>
+                <a href="https://www.youtube.com/channel/UC1Qp6V_rPNEqTsD9oc-5szQ" target="_blank" rel="nofollow" class="yt"></a>
+            </div>
+        </div>
+       
+        <div style="clear: both;"></div>
+        <div class="fleft_mobile">
+            <div class="fmain_mobile">
+                <p>Contact Us</p>
+                <a href="http://britannia.co.in/contact-us/our-offices" class="fsub_mobile">Our Offices</a>
+                <a href="http://britannia.co.in/contact-us/policy" class="fsub_mobile">Complaints Policy</a>
+                
+                <div class="plus"></div>
+            </div>
+            <div class="fmain_mobile">
+                <p>Reach Us</p>
+                <a href="http://britannia.co.in/suppliers" class="fsub_mobile">Suppliers</a>
+                <a href="http://britannia.co.in/distributor" class="fsub_mobile">Distributors</a>
+                <a href="http://britannia.co.in/contact-us/consumer-feedback" class="fsub_mobile">Consumer Feedback</a>
+                <div class="plus"></div>
+            </div>
+            <div class="fmain_mobile">
+                <p>Investor Centre</p>
+                
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;Presentations&#39;)">Presentations</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;Investor&#39;)">Investor Service Centres</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;Financial&#39;)">Financial Performance</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;ShareHolding&#39;)">Share Holding Pattern</a>
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;Bonus&#39;)">Bonus and Dividend History</a>
+               
+                <a href="http://britannia.co.in/products/marie-gold/marie-gold#" class="fsub_mobile" onclick="clickCounter(&#39;IEPF&#39;)">IEPF Information</a>
+                <div class="plus"></div>
+            </div>
+            <div class="fmain_mobile">
+                <p><a style="color: #009a3a !important;" href="http://britannia.co.in/news-and-media">News and Media </a></p>
+                
+                <a href="http://britannia.co.in/whats-new" class="fsub_mobile">New at Britannia</a>
+				<div class="plus"></div>
+				
+            </div>
+             <div class="fmain_mobile">
+                <p><a style="color: #009a3a !important;" href="http://britannia.co.in/investors/code-of-conduct">Code of Conduct &amp; Policies</a></p>
+              
+				
+            </div>
+             <div style="clear: both;"></div>
+           
+        </div>
+         <div style="clear: both;"></div>
+           <div style="color:#fff!important;margin-bottom: 2px;margin-top:20px;text-align:right;font-size:12px;">
+               ©Copyright 2019 Britannia Industries, Allrights Reserved</div>
+    </div>
+    
+</div>
+<!-- Footer Section ends -->
+
+  
+  </div>
+  
+    
+<script src="./brit.effect_files/jquery-1.11.2.min.js.download"></script>
+<script src="./brit.effect_files/jpreloader.js.download"></script>
+<script src="./brit.effect_files/jquery.reject.js.download"></script>
+<script src="./brit.effect_files/jquery.magnific-popup.min.js.download"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        //$('.mobile_nav').bind('touchstart DOMMouseScroll', function (e) {
+        //    var e0 = e.originalEvent,
+        //        delta = e0.wheelDelta || -e0.detail;
+
+        //    this.scrollTop += (delta < 0 ? 1 : -1) * 30;
+        //    e.preventDefault();
+        //});
+
+        //var clickHandler = ('ontouchstart' in document.documentElement ? "touchstart" : "click");
+
+        //$("a").bind(clickHandler, function (e) {
+        //    alert("clicked or tapped. This button used: " + clickHandler);
+        //});
+        $.reject({
+            // Specifies which browsers/versions will be blocked  
+            reject: {
+                all: false, // Covers Everything (Nothing blocked)  
+                msie: 8 // Covers MSIE <= 6 (Blocked by default)  
+                /* 
+                * Many possible combinations. 
+                * You can specify browser (msie, chrome, firefox) 
+                * You can specify rendering engine (geko, trident) 
+                * You can specify OS (Win, Mac, Linux, Solaris, iPhone, iPad) 
+                * 
+                * You can specify versions of each. 
+                * Examples: msie9: true, firefox8: true, 
+                * 
+                * You can specify the highest number to reject. 
+                * Example: msie: 9 (9 and lower are rejected. 
+                * 
+                * There is also "unknown" that covers what isn't detected 
+                * Example: unknown: true 
+                */
+            },
+            display: [], // What browsers to display and their order (default set below)  
+            browserShow: true, // Should the browser options be shown?  
+            browserInfo: { // Settings for which browsers to display  
+                chrome: {
+                    // Text below the icon  
+                    text: 'Google Chrome',
+                    // URL For icon/text link  
+                    url: 'http://www.google.com/chrome/'
+                    // (Optional) Use "allow" to customized when to show this option  
+                    // Example: to show chrome only for IE users  
+                    // allow: { all: false, msie: true }  
+                },
+                firefox: {
+                    text: 'Mozilla Firefox',
+                    url: 'http://www.mozilla.com/firefox/'
+                },
+                safari: {
+                    text: 'Safari',
+                    url: 'http://www.apple.com/safari/download/'
+                },
+                opera: {
+                    text: 'Opera',
+                    url: 'http://www.opera.com/download/'
+                },
+                msie: {
+                    text: 'Internet Explorer',
+                    url: 'http://www.microsoft.com/windows/Internet-explorer/'
+                }
+            },
+
+            // Pop-up Window Text  
+            header: 'Did you know that your Internet Browser is out of date?',
+
+            paragraph1: 'Your browser is out of date, and may not be compatible with ' +
+                        'our website. A list of the most popular web browsers can be ' +
+                        'found below.',
+
+            paragraph2: 'Just click on the icons to get to the download page',
+
+            // Allow closing of window  
+            close: true,
+
+            // Message displayed below closing link  
+            closeMessage: 'By closing this window you acknowledge that your experience ' +
+                            'on this website may be degraded',
+            closeLink: 'Close This Window',
+            closeURL: '#',
+
+            // Allows closing of window with esc key  
+            closeESC: true,
+
+            // Use cookies to remmember if window was closed previously?  
+            closeCookie: false,
+            // Cookie settings are only used if closeCookie is true  
+            cookieSettings: {
+                // Path for the cookie to be saved on  
+                // Should be root domain in most cases  
+                path: '/',
+                // Expiration Date (in seconds)  
+                // 0 (default) means it ends with the current session  
+                expires: 0
+            },
+
+            // Path where images are located  
+            imagePath: 'images/',
+            // Background color for overlay  
+            overlayBgColor: '#000',
+            // Background transparency (0-1)  
+            overlayOpacity: 0.8,
+
+            // Fade in time on open ('slow','medium','fast' or integer in ms)  
+            fadeInTime: 'fast',
+            // Fade out time on close ('slow','medium','fast' or integer in ms)  
+            fadeOutTime: 'fast',
+
+            // Google Analytics Link Tracking (Optional)  
+            // Set to true to enable  
+            // Note: Analytics tracking code must be added separately  
+            analytics: false
+        }); // Customized Browsers 
+    });
+    //  sessionStorage.investorsVal = 0;
+    //if ((navigator.userAgent.match(/iPad/i)) && (navigator.userAgent.match(/iPad/i) != null)) {
+    //    $("body").removeClass("no-touch");
+    //}
+    function clickCounter(type) {
+        // alert(type);
+        sessionStorage.investorsVal = type;
+        window.location = "http://britannia.co.in/investors";
+
+      }
+
+
+      function detectIE() {
+          var ua = window.navigator.userAgent;
+
+          var msie = ua.indexOf('MSIE ');
+          if (msie > 0) {
+              // IE 10 or older => return version number
+              return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+          }
+
+          var trident = ua.indexOf('Trident/');
+          if (trident > 0) {
+              // IE 11 => return version number
+              var rv = ua.indexOf('rv:');
+              return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+          }
+
+          var edge = ua.indexOf('Edge/');
+          if (edge > 0) {
+              // IE 12 => return version number
+              return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+          }
+
+          // other browser
+          return false;
+      }
+
+
+      $(document).ready(function () {
+
+          var isMobile = {
+              //Android: function () {
+              //    return navigator.userAgent.match(/Android/i);
+              //},
+              //BlackBerry: function () {
+              //    return navigator.userAgent.match(/BlackBerry/i);
+              //},
+              //iOS: function () {
+              //    return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+              //},
+              //Opera: function () {
+              //    return navigator.userAgent.match(/Opera Mini/i);
+              //},
+              //Windows: function () {
+              //    return navigator.userAgent.match(/IEMobile/i) || navigator.userAgent.match(/WPDesktop/i);
+              //},
+              any: function () {
+                  //return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+                  return navigator.userAgent.match(/Android|BlackBerry|iPhone|iPod|Opera Mini|IEMobile/i);
+              }
+          };
+
+
+          if (isMobile.any()) {
+              var width = $(window).width();
+              var height = $(window).height();
+
+                //alert(width + "...." + height);
+              if (width > height) {
+                  //alert("L")
+                  $('.blurrMobile').show();
+                  $('.blurrMobile').html('<span style="top: 50%;left: 50%;left: 35%; position: absolute;color: white;font-size: 20px;">Please Use Portrait Mode!</span>');
+              }
+
+              else {
+                  //alert('N')
+                  $('.blurrMobile').html('');
+                  $('.blurrMobile').hide();
+              }
+          };
+
+
+          $(window).resize(function () {
+              RESIZEE();
+          });
+
+          function RESIZEE() {
+              if (isMobile.any()) {
+                  var width = $(window).width();
+                  var height = $(window).height();
+
+
+                  if (width > height) {
+                       //alert(width + "...." + height);
+                      $('.blurrMobile').show();
+                      $('.blurrMobile').html('<span style="top: 50%;left: 50%;left: 35%; position: absolute;color: white;font-size: 20px;">Please Use Portrait Mode!</span>');
+
+                  }
+                  else {
+                      $('.blurrMobile').html('');
+                      $('.blurrMobile').hide();
+                  }
+              }
+          }
+
+          //Scroll IE fix 
+
+
+
+          var siteurl = 'http://britannia.co.in/';
+        $('#search_click').on('click touchstart', function (e) {
+            e.preventDefault();
+            $('.blurr').fadeIn();
+            $('.search_popup').fadeIn();
+            $('#txtHeaderSearch').focus();
+        });
+
+        $(".blurr").on('click', function () { $('.blurr').fadeOut(); $('.search_popup').fadeOut() });
+
+
+        $('#btnForumSearch').on('click touchstart', function (e) {
+            e.preventDefault();
+            var searchText = $("#txtHeaderSearch").val();
+            if (searchText.length == 0) {
+                $('#lblMsg').html('Please enter the search keyword');
+            }
+            else {
+                $('#lblMsg').empty();
+                window.location = siteurl + 'search?SearchTerm=' + searchText;
+            }
+        });
+
+        $("#txtHeaderSearch").keydown(function (e) {
+            if (e.which == 13) {
+                var searchWord = $(this).val();
+                if (searchWord.length == 0) {
+                    e.preventDefault();
+                    $('#lblMsg').html('Please enter the search keyword');
+                }
+                else {
+                    $('#lblMsg').empty();
+                    window.location = "http://britannia.co.in/search.aspx?SearchTerm=" + searchWord;
+                }
+            }
+        });
+
+
+        var deviceAgent = navigator.userAgent.toLowerCase();
+        var agentID = deviceAgent.match(/(ipod|ipad)/);
+        //var agentID = deviceAgent.match(/(iphone)/);
+        if (agentID) {
+            $('head').append($('<link rel="stylesheet" type="text/css" />').attr('href', 'http://britannia.co.in/css/media_ipad.css'));
+            $("body").removeClass("no-touch");
+            // alert("T");
+        }
+
+        //$("#menuHolder li ul").mCustomScrollbar({
+        //    theme: "britannia"
+        //});
+
+
+        function isIE() {
+            var myNav = navigator.userAgent.toLowerCase();
+            return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
+        }
+
+        if (isIE()) {
+            $('[placeholder]').focus(function () {
+                var input = $(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                    input.removeClass('placeholder');
+                }
+            }).blur(function () {
+                var input = $(this);
+                if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                    input.addClass('placeholder');
+                    input.val(input.attr('placeholder'));
+                }
+            }).blur().parents('form').submit(function () {
+                $(this).find('[placeholder]').each(function () {
+                    var input = $(this);
+                    if (input.val() == input.attr('placeholder')) {
+                        input.val('');
+                    }
+                })
+            });
+
+        } else {
+            // Create a dummy element for feature detection
+            if (!('placeholder' in $('<input>')[0])) {
+
+                // Select the elements that have a placeholder attribute
+                $('input[placeholder], textarea[placeholder]').blur(add).focus(remove).each(add);
+
+                // Remove the placeholder text before the form is submitted
+                $('form').submit(function () {
+                    $(this).find('input[placeholder], textarea[placeholder]').each(remove);
+                });
+            }
+        }
+
+        $('.div4 a.button').click(function (e) {
+            e.preventDefault();
+            var wWidth = $(window).width();
+            if (wWidth < 600) {
+                $('#productsFooter').fadeOut();
+                $('.cover_for_border').fadeOut();
+                $('#divMobileFooter').fadeIn();
+                var scrollLeng = $(document).height() - 600;
+                //   alert(scrollLeng + "..." + $(document).height());
+                setTimeout($("html, body").animate({ scrollTop: scrollLeng }, 1000), 500);
+            }
+            else {
+                $('#productsFooter').fadeIn();
+                $('.cover_for_border').fadeIn();
+                $('#divMobileFooter').fadeOut();
+                setTimeout($("html, body").animate({ scrollTop: $(document).height() }, 1000), 500);
+            }
+
+        });
+
+        $('#mobileProdFooter').click(function () {
+            // $("html, body").animate({ scrollTop: $('.page1').position().top }, 1000);
+
+            $('#divMobileFooter').fadeOut();
+        });
+
+        $('#btnCloseProducts').click(function () {
+            // $("html, body").animate({ scrollTop: $('.page1').position().top }, 1000);
+
+            $('#productsFooter').fadeOut();
+            $('.cover_for_border').fadeOut();
+        });
+
+        $('#productsFooter').hide();
+        $('.cover_for_border').hide();
+
+        $(document).on('mouseenter', '.active2', function () {
+            $(this).find('.like').css('opacity', '1');
+            //$(this).addClass("activeclass");
+        }).on('mouseleave', '.active2', function () {
+            $(this).find('.like').css('opacity', '0');
+            //$(this).removeClass("activeclass");
+        });
+
+
+
+
+        $(".part").hover(function () {
+            $(this).addClass("active3");
+        }, function () {
+            $(this).removeClass("active3");
+        });
+        $(".arrow").click(function (e) {
+            e.preventDefault();
+            $('html, body').animate({ scrollTop: 0 }, "slow");
+        });
+        $(".search").click(function () {
+
+            $(".search_input").toggle();
+        });
+        $(".nav_click").click(function () {
+
+            $(".rdrop").toggle();
+            //var isVisible = $( ".page2" ).is( ":hidden" );
+            //if($( ".page2" ).css('display') != 'none'){
+            //$(".page2").hide();
+            //}else{
+            //$(".page2").show();
+            //}
+            $(this).toggleClass("active");
+            var isie = detectIE();
+            if (isie && isie == 8) {
+                $(this).toggleClass("activeie");
+            }
+
+        });
+          /*---------------------- Navigations effects ----------------------------*/
+        $(window).load(function () {
+            var logoleft = $(".bri_logo").offset().left;
+            //console.log(logoleft);
+            $(".bri_logo1").css("left", logoleft + "px");
+        });
+        //$(window).load(function () {
+        //    var logoleft = $(".bri_logo").offset().left;
+        //    console.log(logoleft);
+        //    $(".ha").css("left", logoleft + "px");
+        //});
+        
+        var count = 0;
+        $(".commonnav").hover(function () {
+            
+            var block = $(this).attr("data-subnav");
+           // $(".bri_logo").attr("data-subnav", block);
+            if (!$(this).hasClass("navactive")) {
+                $(".commonnav").removeClass("navactive");
+                $(this).addClass("navactive");
+                $("." + block).show();
+            }
+        }, function () {
+            $(".commonnav").removeClass("navactive");
+          //  $(".bri_logo").attr("data-subnav","");
+            $(".func").hide();
+        });
+
+        $(".func").hover(function () {
+            $(this).show();
+            var active = $(this).attr("data-main");
+            //console.log(active);
+            $(".commonnav").removeClass("navactive");
+            $(".b" + active).addClass("navactive");
+        }, function () {
+
+            $(".commonnav").removeClass("navactive");
+            $(this).hide();
+        });
+
+
+        /*$(".bri_logo").hover(function () {
+            if (!$('.b' + britLogoHover).hasClass('navactive')) {
+                $(".commonnav").removeClass("navactive");
+                $(".b" + britLogoHover).addClass("navactive");
+                $('.' + britLogoHover).show();
+            }
+        }, function () {
+            $(".commonnav").removeClass("navactive");
+            $('.' + britLogoHover).hide();
+            britLogoHover = "";
+        });*/
+        //$(".bri_logo").hover(function () {
+        //    if ($('.products').is(':visible')) {
+        //        $(".bproducts").addClass("navactive");
+        //        $('.products').show();
+        //    }
+
+        //}, function () {
+        //    $(".commonnav").removeClass("navactive");
+        //    $('.products').hide();
+        //});
+        $(document).on("touchstart", ".func a", function (e) {
+            e.preventDefault();
+            var h = $(this).attr("href");
+            if (h != "#") {
+                window.location = h;
+            }
+        });
+        /*----------------------------------------------------------------------------------------------*/
+        /*$(".car").hover(function(){
+            $(".func").hide();	
+            $(".career").show();
+        },function(){
+            $(".func").hide();	
+            $(".career").hide();});
+        $(".ab").hover(function(){
+            $(".func").hide();	
+            $(".about").toggle();
+        });
+        
+        
+        $(".prod").hover(function(){
+            $(".func").hide();	
+            $(".product").toggle();
+        });
+        $(".con").hover(function(){
+            $(".func").hide();	
+            $(".contact").toggle();
+        });*/
+        $(document).on("click", ".arrow", function (e) {
+            e.preventDefault();
+            //alert("A");
+            $('html, body').animate({ scrollTop: 0 }, "slow");
+        });
+
+
+        /* Header Scroll */
+        if (!detectIE()) {
+            var position = $(window).scrollTop();
+            $(window).scroll(function () {
+                var scroll = $(window).scrollTop();
+                if (scroll < 0) {
+                    scroll = 0;
+                }
+                // console.log("S: " + scroll + "----P: " + position);
+                if (scroll > position) {
+                    // scrolling downwards
+                    //  console.log("H");
+                    $('.heading').stop().animate({ "margin-top": "-100px" }, 300);
+                } else {
+                    //  console.log("Sh 22");
+                    $(".heading").stop().animate({ "margin-top": "0px" }, 300);
+                }
+                $(".func").hide();
+                position = scroll;
+            });
+        }
+
+    });
+    // $(".play2").hover(function(){
+    //	$(this).animate({"width":"80px","margin":"-40px 0 0 -40px"});
+    //$(".play").animate({"width":"40px","margin":"-20px 0 0 -20px"});
+    //	
+    //},function(){
+    //	$(this).animate({"width":"100px","margin":"-50px 0 0 -50px"});
+    //	$(".play").animate({"width":"36px","margin":"-16px 0 0 -16px"});
+
+    //}); 
+
+
+
+    //-----------------------------------------------------mobile footer--------------------------------------------------------
+    $(".plus").click(function () {
+        if (!$(this).hasClass("plus_active")) {
+            $(this).addClass("plus_active");
+            $(this).parent().find(".fsub_mobile").fadeIn().css("display", "block");
+        } else {
+            $(this).removeClass("plus_active");
+            $(this).parent().find(".fsub_mobile").fadeOut("fast");
+        }
+        //$(".plus_active").toggle();
+    });
+
+    // for mobile navigation
+    $(".plus_header").on('click touchstart', function (e) {
+        e.preventDefault();
+        if (!$(this).hasClass("plus_header_active")) {
+            $(".mobile_abt > span").removeClass("plus_header_active");
+            $(this).addClass("plus_header_active");
+            $('.about').fadeOut().css("display", "none");
+            $(this).parent().find(".about").fadeIn().css("display", "block");
+        } else {
+            $(this).removeClass("plus_header_active");
+            $(this).parent().find(".about").fadeOut("fast");
+        }
+    });
+    //$(".plus_header").click(function () {
+    //    if (!$(this).hasClass("plus_header_active")) {
+    //        $(this).addClass("plus_header_active");
+    //        $(this).parent().find(".about").fadeIn().css("display", "block");
+    //    } else {
+    //        $(this).removeClass("plus_header_active");
+    //        $(this).parent().find(".about").fadeOut("fast");
+    //    }
+    //    //$(".plus_active").toggle();
+    //});
+
+    $('.menu').click(function (e) {
+        e.preventDefault();
+        $('.mobile_nav').toggle();
+    })
+
+    $('.page1').click(function () {
+        $(".mobile_nav").hide();
+    });
+
+    
+	
+	function develop_blue_block(){
+		var logo_position = jQuery('.header-logo-block').offset().left ;
+		var logo_block_width = jQuery('.header-logo-block').outerWidth(true) / 2;
+		var left_block_width = logo_position + logo_block_width ;	
+		jQuery('.left-spacer-logo').width(left_block_width);
+	}
+	jQuery(window).on('load resize', function() {
+		develop_blue_block()
+	});
+	
+	// open the video in popup
+	$('.video-popup').magnificPopup({
+		disableOn: 0,
+		type: 'iframe',
+		mainClass: 'mfp-fade',
+		removalDelay: 160,
+		preloader: false,
+
+		fixedContentPos: false
+	});
+</script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('body').jpreLoader();
+        });
+    </script> 
+    
+
+    <script type="text/javascript" src="./brit.effect_files/slick.min.js.download"></script>
+    
+    <script type="text/javascript" src="./brit.effect_files/jquery.mCustomScrollbar.concat.min.js.download"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            
+            //Scroll Handling 
+            var pageScrollWidth = $(window).width();
+
+            if (pageScrollWidth > 650) {
+                $('.description').height($('.leftimg').height());
+                $('.description').css('overflow-y', 'auto')
+                $(".description").mCustomScrollbar({
+                    theme: "britannia"
+                });
+            }
+
+
+            //$(".slick-dots li").click(function () {
+            //    $(this).closest('span').click();
+            //});
+        });
+
+
+        //sharing Function
+        function fb_share(url, w, h) {
+            //console.log(url);
+            if (url.length > 0) {
+                var encodedUrl = encodeURIComponent(url);
+                var link = 'https://www.facebook.com/sharer.php?u=' + encodedUrl;
+                //window.open(link, '', 'width=600,height=400,resizable=yes,scrollbars=yes');
+
+                var left = (screen.width / 2) - (w / 2);
+                var top = (screen.height / 2) - (h / 2);
+                window.open(link, 'FacebookShare', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+            }
+            return false;
+        }
+
+        function tweet_share(url, text, w, h) {
+            //console.log(url);
+            if (url.length > 0) {
+                var encodedUrl = encodeURIComponent(url);
+                //text = text.replace('&', 'and');
+                //console.log(text);
+                var encodeText = encodeURIComponent(text); //$('<div/>').text(text).html();
+                var link = 'https://twitter.com/intent/tweet?text=' + encodeText + '&url=' + encodedUrl;
+                //window.open(link, '', 'width=600,height=400,resizable=yes,scrollbars=yes');
+
+                var left = (screen.width / 2) - (w / 2);
+                var top = (screen.height / 2) - (h / 2);
+                window.open(link, 'TwitterShare', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=' + w + ', height=' + h + ', top=' + top + ', left=' + left);
+            }
+            return false;
+        }
+
+        //Get number of FB Likes
+
+        //function to get no of likes
+        function getSharesCount(url_share) {
+            var original_count = 123;
+            var tweet_count = 0;
+            var fb_share = 0;
+            $.getJSON('http://graph.facebook.com/' + url_share, function (fbdata) {
+                fb_share = fbdata.shares;
+                $.getJSON('http://cdn.api.twitter.com/1/urls/count.json?url=' + url_share + '&callback=?', function (twitdata) {
+                    tweet_count = twitdata.count;
+                    original_count = fb_share + tweet_count;
+                    if (original_count < 10) {
+                        original_count = "0" + original_count;
+                    }
+                    if (original_count > 0) {
+                        $('#total_share').html(original_count);
+                    }
+                });
+            });
+
+
+
+        }
+
+
+        $(document).ready(function () {
+            $('#chart').attr('data-id', 7);
+
+            getNutritionDetails(7);
+
+            var url_soscial = $(location).attr('href');
+            url_soscial = url_soscial.substring(0, url_soscial.lastIndexOf('/'));
+            var final_social = url_soscial.substring(url_soscial.lastIndexOf('/') + 1);
+
+            //if (final_social == 'bread-assortment' || final_social == 'whole-wheat-breads' || final_social == 'white-sandwich-breads') {
+            //    $('.head_right').css('display', 'block')
+            //}
+
+
+            //sharing Function
+            var deuceImage = $('#slideul li:last-child').find('.add').attr('id');
+            var permalink1 = 'marie-gold';
+            var Parentpermalink = 'marie-gold';
+            var siteurl = 'http://britannia.co.in/';
+            var winWidth = $(window).width();
+            var current_page = document.location.href
+
+            ////For bread pop up
+            //if (Parentpermalink.toLowerCase().indexOf("bread") >= 0){
+            //    $('.blurr').fadeIn();
+            //    $('#popup').fadeIn();
+            //}
+           
+
+            getSharesCount(current_page)
+            $('#fbShareClick').on('click', function (e) {
+                e.preventDefault();
+                fb_share(current_page, 600, 400);
+            });
+
+            $('#tweetShareClick').on('click', function (e) {
+                //e.preventDefault();
+               // var text = $('<div/>').html($('.para2 > h2').html()).text();
+               // tweet_share(current_page, text.replace(/\s+/g, ' '), 600, 400)
+            });
+
+            
+			if (deuceImage == '89' && permalink1 == 'deuce') {
+                $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/dark-chocolate-left.jpg").fadeIn();
+            }
+            if (deuceImage == '123' && permalink1 == 'deuce-whitechocolate') {
+                $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/white-chocolate-left.jpg").fadeIn();
+             }
+            
+			
+			
+          //  if('7'=='99'  || '7' == '1099'){
+           //     $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/Nutrichoice-Oats.jpg").fadeIn();
+           // }
+           // if('7'=='101'){
+            //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/essentials.jpg").fadeIn();
+            //    $('<noscript class="noscri"><div style="display: inline;"><img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/876500510/?guid=ON&amp;script=0" /></div></noscript>').appendTo('body');
+            //}
+           // if('7'=='112'){
+            //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/Biscotti-Choconut.jpg").fadeIn();
+            //}
+            //Banner and video
+            var videoID
+            var VideoBool = false;
+            var siteURL = 'http://britannia.co.in/';
+            var a = detectIE();
+            var imageBGurl = 'http://britannia.co.in/' + 'images/products/' + 'Biscuit-Hero.jpg';
+            if (a && a == 8) {
+                imageBGurl = 'http://britannia.co.in/' + 'images/products/ie8/' + 'Biscuit-Hero.jpg';
+                $(".wx").attr("src", imageBGurl).show();
+            } else {
+                $('.wrapper2').css('background-image', 'url(' + imageBGurl + ')');
+            }
+
+            //Likes Function
+            //var siteUrl = 'http://britannia.co.in/';
+            //$('.like_count').click(function (e) {
+            //$(document).on("click", ".like_count", function (e) {
+            //    var id = $(this).attr("data-id");
+            //    var count = $(this).first().contents().eq(1).text();
+            //    var span1 = $(this).first().contents().eq(1)
+            //    count = ++count;
+
+            //    $.ajax({
+            //        url: siteUrl + "ajax/hitlike.aspx",
+            //        type: "POST",
+            //        data: {
+            //            id: id
+            //        },
+            //    }).success(function (response) {
+
+            //        if (response == 1) {
+            //            $(span1).text(count);
+            //            $(span1).addClass("bounceIn");
+            //        }
+            //        else if (response == 2) {
+            //            alert("You have already liked this!");
+            //        }
+            //        else {
+            //            alert("Could not like!");
+            //        }
+            //    });
+
+            //});
+
+            jQuery.browser = {};
+            (function () {
+                jQuery.browser.msie = false;
+                jQuery.browser.version = 0;
+                if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+                    jQuery.browser.msie = true;
+                    jQuery.browser.version = RegExp.$1;
+                }
+            })();
+
+            if (permalink1 == 'deuce') {
+                $('#video_clk').hide();
+                $('.cvideo').css('border', 'none');
+                //$('.buy-nw-btn').show();
+                $('#condition').show();
+                $('#headDeuce').show();
+            }
+            else {
+                $('#video_clk').show();
+                $('.cvideo').css('border', '3px solid #dadada');
+                //$('.buy-nw-btn').hide();
+                $('#condition').hide();
+                $('#headDeuce').hide();
+            }
+
+            $('.add').on("click", function (e) {
+                e.preventDefault();
+                $(".noscri").remove();
+                var temp = $(this).attr('id');
+                $('#chart').attr('data-id',temp)
+                getNutritionDetails(temp)
+                var flavourDesc = '';
+                flavourDesc = $(this).attr('data-dairy');
+               
+                if (flavourDesc) {
+                    //alert('hi')
+                    $("#proddet").empty();
+                    $("#proddet").html(flavourDesc);
+                    $('.para1 p').hide().fadeIn();
+                    //   alert(flavourDesc);
+                }
+                var content = $("#" + temp).find("span").attr("data-id1");
+                var img = $("#" + temp).find("img").attr("data-id");
+                var permalink = $(this).attr("data-id");
+                var headtext = $("#" + temp).find(".like").text();
+                videoID = $("#" + temp).find(".like").attr("data-vid");
+                var videoImg = $("#" + temp).find(".like").attr("data-img");
+                var imgAlt = $("#" + temp).find("img").attr("alt");
+                //console.log(headtext+"---------"+videoID + "----------" + videoImg);
+
+                if (videoID) {
+                    //  alert(videoID);                  
+
+                    if (VideoBool) {
+
+                        $('.video').hide().html('<img src="' + videoImg + '" class="cvideo video_image" /><a href="#" id="video_clk"><img src="' + siteURL + 'images/play2.png" class="play" /><img src="' + siteURL + 'images/play3.png" class="play2" /></a>').fadeIn();
+                        VideoBool = false;
+                    }
+
+                    else {
+                        $('.video_image').hide().attr("src", videoImg).fadeIn()
+                    }
+                }
+                else {
+                    //alert(videoID);
+                    $('.video').html('');
+                    VideoBool = true;
+                }
+
+                if (permalink == 'deuce') {
+                    $('#video_clk').hide();
+                    $('.cvideo').css('border', 'none');
+                    //$('.buy-nw-btn').show();
+                    $('#condition').show();
+                    $('#headDeuce').show();
+                }
+                else {
+                    $('#video_clk').show();
+                    $('.cvideo').css('border', '3px solid #dadada');
+                    //$('.buy-nw-btn').hide();
+                    $('#condition').hide();
+                    $('#headDeuce').hide();
+                }
+
+                $('#temp1').hide().html(headtext).fadeIn();
+                $('#cphContent_prodImage').hide().attr("src", img).fadeIn();
+                $('#cphContent_prodImage').attr("alt", imgAlt);
+                $('#temp2').hide().html(content).fadeIn();
+                //$('#temp2').text(content);  
+                //if (temp == '87') {
+                //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/mag-ad2-4-.jpg").fadeIn();
+                //}
+
+                if (temp == '18' || temp == '19') {
+                    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/process-Pure-Magic.jpg").fadeIn();
+                }
+				else if (temp == '89') {
+                    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/dark-chocolate-left.jpg").fadeIn();
+                }
+                else if (temp == '123') {
+                    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/white-chocolate-left.jpg").fadeIn();
+                }
+                
+				
+				
+				
+				//else if (temp == '99' || temp == '100') {
+                //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/Nutrichoice-Oats.jpg").fadeIn();
+                //}
+                //else if (temp == '14'  || temp == '15' || temp == '16'|| temp == '17'|| temp == '58'|| temp == '59'|| temp == '60'|| temp == '88'){
+                //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/process-NC-consumption.jpg").fadeIn();
+                //}
+                //else if(temp=='101'){
+                //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/essentials.jpg").fadeIn();
+                //    $('<noscript class="noscri"><div style="display: inline;"><img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/876500510/?guid=ON&amp;script=0" /></div></noscript>').appendTo('body');
+                //}
+                //else if(temp=='112'){
+                //    $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/Biscotti-Choconut.jpg").fadeIn();
+                // }
+                // else if(temp=='111'){
+                //     $('#cphContent_bigImage').hide().attr("src", "http://britannia.co.in/images/products/Biscotti-Fruit-n-nut.jpg").fadeIn();
+                // }
+                
+				
+				$(".description").mCustomScrollbar("destroy");
+                $(".description").mCustomScrollbar({
+                    theme: "britannia"
+                });
+
+                var url = $(location).attr('href');
+                url = url.substring(0, url.lastIndexOf('/'));
+
+                var final_url = url + "/" + permalink;
+                if (!$.browser.msie) {        //console.log(pathtophp+hashlist[currentFrame]);                                
+                    window.history.replaceState("Product Change", "Product Change", final_url);
+                    //$("html, body").animate({ scrollTop: 200 }, "slow");
+                }
+                $('html, body').animate({
+                    scrollTop: $(".goodday").offset().top
+                }, "slow");
+
+            })
+
+            //Video Player
+            videoID = 'AaYsysScjA8'
+
+            if (!videoID) {
+                $('.video').hide();
+                VideoBool = true;
+            }
+
+
+            $(document).on('click', '#video_clk', function (e) {
+                e.preventDefault();
+                VideoBool = true;
+                var video_template = ' <iframe src="//www.youtube.com/embed/' + videoID + '?rel=0&vq=hd1080&autoplay=1&modestbranding=1;autohide=1&amp;showinfo=0&amp;controls=1" width="' + $('.video_image').width() + '" height="' + $(".video").height() + '" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
+                $(this).parent().html(video_template);
+            });
+
+            //Slider Initialize Responsive
+            var pageWidth = $(window).width();
+
+
+
+            if (pageWidth < 600) {
+                $('#slideul .dummy').remove();
+                $('#slideul').slick({
+                    infinite: true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    prevArrow: '<img src="http://britannia.co.in/images/left_swipe_red.png" class="red_left" />',
+                    nextArrow: '<img src="http://britannia.co.in/images/right_swipe_red.png" class="red_right_products" />',
+                    appendArrows: $('.otherRanges'),
+                    mobileFirst: true
+                    //dots: true,
+                    //appendDots: "#customPage"
+                });
+            }
+            else if (pageWidth < 1050) {
+                $('#slideul .dummy').remove();
+                $('#slideul').slick({
+                    infinite: true,
+                    slidesToShow: 3,
+                    slidesToScroll: 3,
+                    dots: true,
+                    appendDots: "#customPage",
+                    prevArrow: '<img src="http://britannia.co.in/images/left_swipe_red.png" class="red_left_desktop" />',
+                    nextArrow: '<img src="http://britannia.co.in/images/right_swipe_red.png" class="red_right_desktop" />'
+                });
+            }
+
+            else {
+                $('#slideul').slick({
+                    infinite: true,
+                    slidesToShow: 4,
+                    slidesToScroll: 4,
+                    dots: true,
+                    appendDots: "#customPage",
+                    prevArrow: '<img src="http://britannia.co.in/images/left_swipe_red.png" class="red_left_desktop" />',
+                    nextArrow: '<img src="http://britannia.co.in/images/right_swipe_red.png" class="red_right_desktop" />'
+                });
+            }
+
+            $(window).resize(function () {
+                pageWidth = $(window).width();
+
+                RESIZEE(pageWidth);
+            });
+
+            function RESIZEE(pageWidth) {
+
+                if ($(window).width() != pageWidth) {
+                    $('#slideul').slick('unslick');
+                    if (pageWidth < 600) {
+                        $('#slideul .dummy').remove();
+                        $('#slideul').slick({
+                            infinite: true,
+                            slidesToShow: 1,
+                            slidesToScroll: 1
+                            //dots: true,
+                            //appendDots: "#customPage"
+                        });
+                    }
+                    else if (pageWidth < 1050) {
+                        $('#slideul .dummy').remove();
+                        $('#slideul').slick({
+                            infinite: true,
+                            slidesToShow: 3,
+                            slidesToScroll: 3,
+                            dots: true,
+                            appendDots: "#customPage"
+                        });
+                    }
+
+                    else {
+                        $('#slideul').slick({
+                            infinite: true,
+                            slidesToShow: 4,
+                            slidesToScroll: 4,
+                            dots: true,
+                            appendDots: "#customPage"
+                        });
+                    }
+
+                }
+            }
+
+            $('#chart').on("click", function (e) {
+                e.preventDefault();
+                //getNutritionDetails($(this).attr("data-id"))
+                $('.blurr').fadeIn();
+                $('.popupNutri').fadeIn();
+            })
+
+
+            $(".blurr").on("click", closeTabs);
+            $("#closePopup").on("click", closeTabs);
+            function closeTabs() {
+                $('.popupNutri').hide();
+                $('.blurr').hide();
+            }
+
+            function getNutritionDetails(id) {
+                $("#modal-scrollbar").mCustomScrollbar("destroy");
+                $.ajax({
+                    url: "http://britannia.co.in/ajax/getNutritionDetails.aspx",
+                    type: "POST",
+                    data: {
+                        id: id
+                    },
+                    dataType: "html",
+                }).success(function (response) {
+                    if (response != "0" && response != null) {
+                        $('#modal-scrollbar').empty();
+                        $('#modal-scrollbar').append(response);
+                        $('#modal-scrollbar').mCustomScrollbar({
+                            theme: "britannia"
+                        });
+                        $('#chartDisplay').css('display','block');
+                    }
+                    else{
+                        $('#chartDisplay').css('display','none');
+                    }
+                });
+            }
+
+            $(".blurr").on("click", closeTabs1);
+            $(".closeData").on("click", closeTabs1);
+            function closeTabs1() {
+                $('#popup').hide();
+                $('.popElement').hide();
+                $('.blurr').hide();
+            }
+        });
+    </script>
+  
+       
+
+
+<div class="st-inspector"><iframe src="./brit.effect_files/saved_resource.html"></iframe></div><div style="z-index: 2147483646; position: fixed; top: 0px; left: 0px; width: 0px; height: 0px;"></div><div style="pointer-events: none; position: fixed; z-index: 2147483646; top: -380.8px; left: 0px; width: 1519.2px; height: 1769.1px;"><canvas width="1945" height="2257.5" style="position: relative; left: -18px; top: -18px; width: 1556px; height: 1806px"></canvas></div></body></html>

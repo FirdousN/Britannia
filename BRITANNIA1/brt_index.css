@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(brit-background_img);
+}
+
+.container{
+    
+    background-image: url(brit-background_img.jpg);
+    background-repeat: no-repeat;
+    background-size:110%;
+}
+.header{
+    background-color: #ff0000;
+    width: 100%;
+    height: 63px; 
+    padding-left: 40px;  
+    display: flex;
+    border-bottom:0px;
+    border-color: green;
+}
+.brt-logo{
+    margin-left: -115px;
+    margin-top: -30px;
+}
+.left-header{
+    width:30%;
+    height: 65px;
+    background-color: #5bc4f1;
+    margin-left: -40px;
+    padding: left;
+}
+.right-header{
+    display: flex;
+}
+.nav-text {
+    margin-top: 19px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    color: aliceblue;
+}
+.nav-text a{
+    color: aliceblue;
+    padding-left: 30px;
+    color:aliceblue
+}
+
+.nav-logo{
+    height: 100%;
+    width: 60px;
+    background-color: #d21a28;
+    color: rgb(255, 255, 255);
+}
+.search-bar{
+    width: 27px;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.menu-bar{
+    width: 36px;
+    margin-top: 14px;
+    margin-top: 15px;
+    margin-left: 10px;
+    
+}
+header{
+    position: sticky;
+    top: 0;
+}
+section{
+    width:100%;
+    text-align: center;
+    margin-top:0px;
+}
+.prd-2_details{
+    display: flex;
+}
+.prd-img{
+display: flex;
+}
+.prd-1_details{
+    display: flex;
+}
+
+.background-img img{
+    width: 120%;
+}
+.videos{
+    display: flex;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer {
+    display: flex;
+    font-size: 12px;
+    width: 100%;
+    height: auto;
+    padding-right:-50px;
+    background: #00993f;
+}
+.third{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.align{
+    margin-left: 110px;
+   
+    text-align: left;
+}
